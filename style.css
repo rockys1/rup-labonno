@@ -1,15 +1,16 @@
 h1
 {
-  color: rgb(170, 255, 0);
+  color: brown;
+  background-color: antiquewhite;
   text-align: center;
 }
 i{
-    color: rgb(60, 4, 79);
-    border: 5px solid rgb(3, 1, 41);
+    color: rgb(255, 1, 85);
+    border: 2px solid rgb(3, 1, 41);
     background-color: rgb(166, 240, 255);
     padding: 14px 20px;
     border-radius: 15px;
-    margin: 60px;
+    
     
     
 }
